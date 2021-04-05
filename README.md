@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harkishan Singh
 - 👀 I’m interested in ML and AI
-- 🌱 I’m currently pursuing Computer Science and Applied Mathematics from IIITD
+- 🌱 I’m pursuing Computer Science and Applied Mathematics from IIITD (final year student)
 - 📫 Reach me at : singh.harkishan2912@gmail.com
 
 <!---

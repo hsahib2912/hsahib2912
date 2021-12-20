@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harkishan Singh
 - 👀 I’m interested in ML and AI
-- 🌱 I’m pursuing Computer Science and Applied Mathematics from IIITD (final year student)
+- 🌱 I’m a Computer Science and Applied Mathematics B.Tech graduate from IIITD
 
 <!---
 hsahib2912/hsahib2912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
